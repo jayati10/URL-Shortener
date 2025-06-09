@@ -20,15 +20,15 @@ Trimrr is a full-stack URL shortener built using **React.js**, **Supabase**, **T
 ## 📦 Getting Started
 
 ### 1. Clone the repository
-bash
+```bash
 git clone https://github.com/your-username/trimrr-url-shortener.git
 cd trimrr-url-shortener
-
+```
 ### 1. Install Dependencies
 Make sure you have Node.js installed. Then, run:
-bash
+```bash
 npm install
-
+```
 ### 2. Setup Supabase
 - Create a new project on [Supabase](https://supabase.com/)
 - Inside the project dashboard, go to **Project Settings > API** to get your project URL and Anon Key
