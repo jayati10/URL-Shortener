@@ -56,3 +56,12 @@ src/
 ├── App.jsx            # Main application component
 └── main.jsx           # App entry point
 ```
+
+
+## 👤 Author
+
+**Jayati Gupta**  
+Connect with me on:  
+[GitHub](https://github.com/jayati10) | [LinkedIn](https://www.linkedin.com/in/jayatigupta102/)
+
+
