@@ -21,8 +21,8 @@ Trimrr is a full-stack URL shortener built using **React.js**, **Supabase**, **T
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/trimrr-url-shortener.git
-cd trimrr-url-shortener
+git clone https://github.com/your-username/url-shortener.git
+cd url-shortener
 ```
 ### 1. Install Dependencies
 Make sure you have Node.js installed. Then, run:
